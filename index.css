@@ -1,0 +1,25 @@
+.main {
+    background-color: #368f8b;
+    padding-bottom: 100px;
+}
+
+.main-title {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.btn-container {
+    width: 200px;
+    height: 200px;
+    background-color: blanchedalmond;
+    border: 3px solid goldenrod;
+    margin: 30px 18px;
+    border-radius: 12%;
+}
+
+.btn-container:hover {
+    cursor: pointer;
+    background-color:yellowgreen;
+}
+
+.btn-container
