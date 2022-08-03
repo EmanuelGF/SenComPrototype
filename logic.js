@@ -1,6 +1,6 @@
-function play() {
-    var sim = new Audio('sim.wav')
-    sim.play();
+function play(sound) {
+    var sound = new Audio(`${sound}.mp3`)
+    sound.play();
 }
 
     
