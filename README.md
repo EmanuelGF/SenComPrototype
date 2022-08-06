@@ -7,7 +7,7 @@ He had a stroke that left him unable to talk and make basic movements.
 The interface consists of some buttons that when pressed emit sounds, words like yes, no, etc.. 
 It´s in Portuguese. 
 
-To run just open index.html in a browser.
+To run just navigate to index.html.
 
 
 Feel free to use, modify ❤
